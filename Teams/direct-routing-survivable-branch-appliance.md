@@ -175,7 +175,7 @@ For the SBA application, keep the following in mind:
 - Implicit grant tokens = Access tokens and ID tokens. 
 - API permissions = Skype and Teams Tenant Admin Access -> Application permissions -> application_access_custom_sba_appliance.
 - Client secret: you can use any description and expiration. 
-- Remember to copy the client secret immediately after creating it. 
+- Remember to copy the client secret value immediately after creating it. 
 - The Application (client) ID is shown on the Overview tab.
 
 Then follow these steps:
